@@ -1,4 +1,4 @@
-# Stm32-Serial-transceiver1
+# Stm32-Serial-transceiver
 
 使用USART协议通过串口将数据发送到电脑上
 
